@@ -1,7 +1,6 @@
 # ia_proyecto_paint
 Hecho por:
-  Brian Batz
-  Josué Santizo
+  Brian Batz y Josué Santizo
 
 # Instalar ibrerías necesarias
 - Mediapipe
